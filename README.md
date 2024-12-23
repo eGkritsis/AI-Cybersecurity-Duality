@@ -1,4 +1,4 @@
-# AI in Cybersecurity: Dual Roles Explored  
+# AI in Cybersecurity
 
 An in-depth exploration of AI's dual role in cybersecurity, featuring case studies on enhancing defenses and bypassing systems through adversarial techniques like Indirect Prompt Injection.  
 
